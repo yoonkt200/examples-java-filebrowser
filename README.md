@@ -21,4 +21,4 @@ Install Java SDK, Java IDE, Import Swing, JavaFX
 	$ install 'jid3lib.jar, jaudiotagger.jar' on Java IDE. and run this project.
 
 ## Image
-![homepage](https://github.com/yoonkt200/xamples-java-filebrowser/blob/master/images/1.PNG)
+![homepage](https://github.com/yoonkt200/examples-java-filebrowser/blob/master/images/1.PNG)
